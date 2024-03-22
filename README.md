@@ -2,7 +2,7 @@
 
 # This repository is courtesy of [ruzickap](https://github.com/ruzickap/malware-cryptominer-container)
 
-# I used this project by connecting this repository to my GCP Kubernetes cluster pushing the container images to my GCP (gcr.io) repository and tested with [Trend Micro Cloud One Container Security](https://cloudone.trendmicro.com/docs/container-security/) and [Deep Security Smart Check](https://cloudone.trendmicro.com/docs/container-security/sc-about/) by deploying the malware crypto-miner container image and deploying Trend Micro Container Security and Deep Security Smartcheck for Proof of Concept (PoC).
+# I used this project by connecting this repository to my GCP Kubernetes cluster pushing the container images to my GCP (gcr.io) container registry and tested with [Trend Micro Cloud One Container Security](https://cloudone.trendmicro.com/docs/container-security/) and [Deep Security Smart Check](https://cloudone.trendmicro.com/docs/container-security/sc-about/) by deploying the malware crypto-miner container image and deploying Trend Micro Container Security and Deep Security Smartcheck for Proof of Concept (PoC). - kb5fls
 
 # Additional Resources of Docker Images for Malware Analysis
 # [**Docker Images of Malware Analysis Tools**](https://docs.remnux.org/run-tools-in-containers/remnux-containers)
